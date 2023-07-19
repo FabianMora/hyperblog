@@ -1,0 +1,14 @@
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\bin\Debug\netcoreapp2.1\ApiSqlPlatzi.deps.json
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\bin\Debug\netcoreapp2.1\ApiSqlPlatzi.runtimeconfig.json
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\bin\Debug\netcoreapp2.1\ApiSqlPlatzi.runtimeconfig.dev.json
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\bin\Debug\netcoreapp2.1\ApiSqlPlatzi.dll
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\bin\Debug\netcoreapp2.1\ApiSqlPlatzi.pdb
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.csprojAssemblyReference.cache
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.RazorAssemblyInfo.cache
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.RazorAssemblyInfo.cs
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.AssemblyInfoInputs.cache
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.AssemblyInfo.cs
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.RazorTargetAssemblyInfo.cache
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.dll
+C:\Users\DESARROLLO\Documents\SQL Scripts\ApiSqlPlatzi\obj\Debug\netcoreapp2.1\ApiSqlPlatzi.pdb
