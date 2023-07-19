@@ -48,15 +48,24 @@ namespace ApiSqlPlatzi.Controllers
 
         // PUT api/contact/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public IActionResult Put(int id, [FromBody] Contacts value)
         {
-
+            Contacts newcontact = value;
+            contactsContext.ContactSet.Update(value);
+            contactsContext.SaveChanges();
+            return Ok("Contacto actualizado");
         }
 
         // DELETE api/contact/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
+            Contacts deleteContact  = (from c in contactsContext.ContactSet
+                            where c.Identificador == id
+                            select c).FirstOrDefault();;
+            contactsContext.ContactSet.Remove(deleteContact);
+            contactsContext.SaveChanges();
+            return Ok("Contacto borrado");
         }
 
         ~ContactController()
